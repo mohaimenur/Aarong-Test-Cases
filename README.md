@@ -2,11 +2,11 @@
 
 Aarong (https://www.aarong.com/)
 
-** I have writen test cases for Sign Up and Login pages of Aarong.
+** I have written test cases for the Sign Up and Login pages of Aarong.
 
-** I got some issues which I have included on test cases status of the excel file.
+** I got some issues which I have included on the test cases status of the Excel file.
 
-** I have worked for creating test cases and execute the test cases, test report, bug report, test metrics and mindmap.
+** I have worked on creating test cases and executing the test cases, test reports, bug reports, test metrics, and mindmap.
 
 ** Module: User Management
 
